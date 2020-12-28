@@ -7,7 +7,7 @@
 - 🎨 Re-Stylishing my Portfolio Web
 - ✍️ Languages I'll like to learn and improve Python and Typescript
 - ⚙️ Languages & Tools: JS ▪️ REACT MONGODB NODE EXPRESS - JV ▪️ SPRING
-- 💬 Ask me about whatever you want CODE related or and for help.
+- 💬 Ask me about whatever you want CODE related or for help.
 - 📫 How to reach me: - [LinkedIn](https://www.linkedin.com/in/alicianunezisaac/) -[Email](mailto:alicianunez10492@gmail.com)
 - 😄 Pronouns: she/her - they/them
 
