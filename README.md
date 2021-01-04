@@ -1,5 +1,3 @@
-<h2 align="center">
-<img align="center" src="https://media1.tenor.com/images/d34fa062391dcf1ccce5c5c80420e60e/tenor.gif" width="160" height="100" /></h2>
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">A passionate fullstack developer from Spain🥘</h3>
 
@@ -12,7 +10,8 @@
 <a href="https://linkedin.com/in/alicianunezisaac" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alicianunezisaac" height="30" width="40" /></a>
 </p>
 
-
+<h2 align="center">
+<img align="center" src="https://media1.tenor.com/images/d34fa062391dcf1ccce5c5c80420e60e/tenor.gif" width="160" height="100" /></h2>
 
 <!--
 **alicianunex/alicianunex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
