@@ -1,4 +1,4 @@
-<a href='https://www.linkpicture.com/view.php?img=LPic6006150b16062116143024'><img src='https://www.linkpicture.com/q/ALICIA-NUÑEZ.png' type='image'></a>
+Software Developer at @fujitsu
 
 <h4 align="center">
 <a href="https://www.alicianunez.net" target="_blank">Web</a> 💻
