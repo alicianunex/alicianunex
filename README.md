@@ -1,5 +1,4 @@
-<h3 align="center">
- Software Developer at <a href="https://github.com/fujitsu" target="_blank">Fujitsu</a> </h3>
+
 <h4 align="center">
 
 <a href="https://www.alicianunez.net" target="_blank">Web</a> 💻
